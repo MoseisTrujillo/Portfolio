@@ -1,0 +1,100 @@
+﻿1,Wii Sports,Sports,E,Wii,Nintendo,Nintendo EAD,7.7,NULL,82.86,NULL,NULL,NULL,NULL,NULL,2006
+2,Super Mario Bros.,Platform,NULL,NES,Nintendo,Nintendo EAD,10,NULL,40.24,NULL,NULL,NULL,NULL,NULL,1985
+3,Mario Kart Wii,Racing,E,Wii,Nintendo,Nintendo EAD,8.2,9.1,37.14,NULL,NULL,NULL,NULL,NULL,2008
+4,PlayerUnknown's Battlegrounds,Shooter,NULL,PC,PUBG Corporation,PUBG Corporation,NULL,NULL,36.6,NULL,NULL,NULL,NULL,NULL,2017
+5,Wii Sports Resort,Sports,E,Wii,Nintendo,Nintendo EAD,8,8.8,33.09,NULL,NULL,NULL,NULL,NULL,2009
+6,Pokemon Red / Green / Blue Version,Role-Playing,E,GB,Nintendo,Game Freak,9.4,NULL,31.38,NULL,NULL,NULL,NULL,NULL,1998
+7,New Super Mario Bros.,Platform,E,DS,Nintendo,Nintendo EAD,9.1,8.1,30.8,NULL,NULL,NULL,NULL,NULL,2006
+8,Tetris,Puzzle,E,GB,Nintendo,Bullet Proof Software,NULL,NULL,30.26,NULL,NULL,NULL,NULL,NULL,1989
+9,New Super Mario Bros. Wii,Platform,E,Wii,Nintendo,Nintendo EAD,8.6,9.2,30.22,NULL,NULL,NULL,NULL,NULL,2009
+10,Minecraft,Misc,NULL,PC,Mojang,Mojang AB,10,NULL,30.01,NULL,NULL,NULL,NULL,NULL,2010
+11,Duck Hunt,Shooter,NULL,NES,Nintendo,Nintendo R&D1,NULL,NULL,28.31,NULL,NULL,NULL,NULL,NULL,1985
+12,Wii Play,Misc,E,Wii,Nintendo,Nintendo EAD,5.9,4.5,28.02,NULL,NULL,NULL,NULL,NULL,2007
+13,Kinect Adventures!,Party,E,X360,Microsoft Game Studios,Good Science Studio,6.7,NULL,24,NULL,NULL,NULL,NULL,NULL,2010
+14,Nintendogs,Simulation,E,DS,Nintendo,Nintendo EAD,8.4,NULL,23.96,NULL,NULL,NULL,NULL,NULL,2005
+15,Mario Kart DS,Racing,E,DS,Nintendo,Nintendo EAD,9.1,9.4,23.6,NULL,NULL,NULL,NULL,NULL,2005
+16,Pokemon Gold / Silver Version,Role-Playing,E,GB,Nintendo,Game Freak,9.2,NULL,23.1,NULL,NULL,NULL,NULL,NULL,2000
+17,Wii Fit,Sports,E,Wii,Nintendo,Nintendo EAD,7.9,NULL,22.67,NULL,NULL,NULL,NULL,NULL,2008
+18,Wii Fit Plus,Sports,E,Wii,Nintendo,Nintendo EAD,8,NULL,21.13,NULL,NULL,NULL,NULL,NULL,2009
+19,Super Mario World,Platform,E,SNES,Nintendo,Nintendo EAD,8.5,NULL,20.61,NULL,NULL,NULL,NULL,NULL,1991
+20,Grand Theft Auto V,Action,M,PS3,Rockstar Games,Rockstar North,9.4,NULL,NULL,20.32,6.37,9.85,0.99,3.12,2013
+21,Grand Theft Auto V,Action,M,PS4,Rockstar Games,Rockstar North,9.7,NULL,NULL,19.39,6.06,9.71,0.6,3.02,2014
+22,Brain Age: Train Your Brain in Minutes a Day,Misc,E,DS,Nintendo,Nintendo SDD,8.1,NULL,19.01,NULL,NULL,NULL,NULL,NULL,2006
+23,Garry's Mod,Misc,NULL,PC,Unknown,Team Garry,NULL,NULL,18.58,NULL,NULL,NULL,NULL,NULL,2004
+24,Super Mario Land,Platform,E,GB,Nintendo,Nintendo R&D1,NULL,NULL,18.14,NULL,NULL,NULL,NULL,NULL,1989
+25,Mario Kart 7,Racing,E,3DS,Nintendo,Nintendo EAD / Retro Studios,8.2,NULL,18.11,NULL,NULL,NULL,NULL,NULL,2011
+26,Pokemon Diamond / Pearl Version,Role-Playing,E,DS,Nintendo,Game Freak,8.6,NULL,17.67,NULL,NULL,NULL,NULL,NULL,2007
+27,Grand Theft Auto: San Andreas,Action,M,PS2,Rockstar Games,Rockstar North,9.5,NULL,17.3,NULL,NULL,NULL,NULL,NULL,2004
+28,Super Mario Bros. 3,Platform,E,NES,Nintendo,Nintendo R&D2,NULL,NULL,17.28,NULL,NULL,NULL,NULL,NULL,1990
+29,Pokemon X/Y,Role-Playing,E,3DS,Nintendo,Game Freak,8.9,9.7,16.37,NULL,NULL,NULL,NULL,NULL,2013
+30,Pokemon Ruby / Sapphire Version,Role-Playing,E,GBA,Nintendo,Game Freak,8.8,NULL,16.22,NULL,NULL,NULL,NULL,NULL,2003
+31,Grand Theft Auto: Vice City,Action,M,PS2,Rockstar Games,Rockstar North,9.6,NULL,NULL,16.15,8.41,5.49,0.47,1.78,2002
+32,Pokemon Sun/Moon,Role-Playing,E,3DS,Nintendo,Game Freak,9,NULL,16.14,NULL,NULL,NULL,NULL,NULL,2016
+33,Grand Theft Auto V,Action,M,X360,Rockstar Games,Rockstar North,NULL,NULL,NULL,15.86,9.06,5.33,0.06,1.42,2013
+34,Pokemon Black / White Version,Role-Playing,E,DS,Nintendo,Game Freak,8.6,9,15.64,NULL,NULL,NULL,NULL,NULL,2011
+35,Call of Duty: Black Ops 3,Shooter,M,PS4,Activision,Treyarch,NULL,NULL,NULL,15.09,6.18,6.05,0.41,2.44,2015
+36,Mario Kart 8 Deluxe,Racing,E,NS,Nintendo,Nintendo EPD,9.3,NULL,15.02,NULL,NULL,NULL,NULL,NULL,2017
+37,Counter-Strike: Source,Shooter,M,PC,VU Games,Valve Software,9.3,NULL,15,NULL,NULL,NULL,NULL,NULL,2004
+38,Sonic the Hedgehog,Platform,NULL,GEN,Sega,Sonic Team,NULL,NULL,15,NULL,NULL,NULL,NULL,NULL,1991
+39,Gran Turismo 3: A-Spec,Racing,E,PS2,Sony Computer Entertainment,Polyphony Digital,9.3,NULL,14.89,NULL,NULL,NULL,NULL,NULL,2001
+40,Brain Age 2: More Training in Minutes a Day,Misc,E,DS,Nintendo,Nintendo SDD,8,NULL,14.88,NULL,NULL,NULL,NULL,NULL,2007
+41,Call of Duty: Modern Warfare 3,Shooter,M,X360,Activision,Infinity Ward,8.7,NULL,NULL,14.82,9.07,4.29,0.13,1.33,2011
+42,Call of Duty: Black Ops,Shooter,M,X360,Activision,Treyarch,8.8,NULL,NULL,14.74,9.76,3.73,0.11,1.14,2010
+43,Pokemon Yellow: Special Pikachu Edition,Role-Playing,E,GB,Nintendo,Game Freak,8.7,NULL,14.64,NULL,NULL,NULL,NULL,NULL,1999
+44,Halo 3,Shooter,M,X360,Microsoft Game Studios,Bungie Studios,9.6,9.5,14.5,NULL,NULL,NULL,NULL,NULL,2007
+45,Pokemon Omega Ruby/Pokemon Alpha Sapphire,Role-Playing,E,3DS,Nintendo,Game Freak,NULL,NULL,14.17,NULL,NULL,NULL,NULL,NULL,2014
+46,Red Dead Redemption 2,Action-Adventure,M,PS4,Rockstar Games,Rockstar Games,9.8,NULL,NULL,13.94,5.26,6.21,0.21,2.26,2018
+47,Call of Duty: Black Ops II,Shooter,M,X360,Activision,Treyarch,NULL,NULL,NULL,13.86,8.27,4.32,0.07,1.2,2012
+48,Call of Duty: Black Ops II,Shooter,M,PS3,Activision,Treyarch,NULL,NULL,NULL,13.8,4.99,5.88,0.65,2.28,2012
+49,Super Mario Odyssey,Platform,E10,NS,Nintendo,Nintendo EPD,9.9,NULL,13.76,NULL,NULL,NULL,NULL,NULL,2017
+50,Call of Duty: Modern Warfare 2,Shooter,M,X360,Activision,Infinity Ward,9.5,9,NULL,13.53,8.54,3.63,0.08,1.28,2009
+51,Call of Duty: WWII,Shooter,M,PS4,Activision,Sledgehammer Games,8,NULL,NULL,13.4,4.67,6.21,0.4,2.12,2017
+52,Call of Duty: Modern Warfare 3,Shooter,M,PS3,Activision,Infinity Ward,8.8,NULL,NULL,13.35,5.54,5.78,0.49,1.54,2011
+53,Super Smash Bros. Brawl,Fighting,T,Wii,Nintendo,Project Sora,9.2,9.7,13.29,NULL,NULL,NULL,NULL,NULL,2008
+54,Grand Theft Auto III,Action,M,PS2,Rockstar Games,DMA Design,9.5,NULL,NULL,13.1,6.99,4.51,0.3,1.3,2001
+55,New Super Mario Bros. 2,Platform,E,3DS,Nintendo,Nintendo,7.5,NULL,13.08,NULL,NULL,NULL,NULL,NULL,2012
+56,Portal 2,Shooter,E10,PC,Valve,Valve Software,9.7,NULL,13.06,NULL,NULL,NULL,NULL,NULL,2011
+57,Minecraft,Misc,E10,X360,Microsoft Studios,Mojang,NULL,NULL,13,NULL,NULL,NULL,NULL,NULL,2013
+58,Super Mario Galaxy,Platform,E,Wii,Nintendo,Nintendo EAD Tokyo,9.7,9.6,12.78,NULL,NULL,NULL,NULL,NULL,2007
+59,Pokemon Heart Gold / Soul Silver Version,Role-Playing,E,DS,Nintendo,Game Freak,8.6,NULL,12.72,NULL,NULL,NULL,NULL,NULL,2010
+60,Call of Duty: Black Ops,Shooter,M,PS3,Activision,Treyarch,8.7,NULL,NULL,12.67,6.01,4.4,0.48,1.78,2010
+61,Grand Theft Auto V,Action,M,PC,Rockstar Games,Rockstar North,NULL,NULL,12.6,NULL,NULL,NULL,NULL,NULL,2015
+62,Super Mario 3D Land,Platform,E,3DS,Nintendo,Nintendo EAD Tokyo,8.9,NULL,12.41,NULL,NULL,NULL,NULL,NULL,2011
+63,Animal Crossing: New Leaf,Simulation,E,3DS,Nintendo,Nintendo EAD,8.6,NULL,12.1,NULL,NULL,NULL,NULL,NULL,2013
+64,Super Smash Bros. Ultimate,Fighting,E10,NS,Nintendo,Bandai Namco Games,9.4,9.7,12.08,NULL,NULL,NULL,NULL,NULL,2018
+65,Diablo III,Role-Playing,M,PC,Blizzard Entertainment,Blizzard Entertainment,9,NULL,12,NULL,NULL,NULL,NULL,NULL,2012
+66,Pokemon FireRed / LeafGreen Version,Role-Playing,E,GBA,Nintendo,Game Freak,8.3,NULL,12,NULL,NULL,NULL,NULL,NULL,2004
+67,Gran Turismo 5,Racing,E,PS3,Sony Computer Entertainment,Polyphony Digital,8.3,NULL,11.95,NULL,NULL,NULL,NULL,NULL,2010
+68,Super Mario 64,Platform,E,N64,Nintendo,Nintendo EAD,9.7,NULL,11.91,NULL,NULL,NULL,NULL,NULL,1996
+69,FIFA 18,Sports,E,PS4,EA Sports,EA Vancouver,8.3,NULL,NULL,11.8,1.27,8.64,0.15,1.73,2017
+70,Gran Turismo 4,Racing,E,PS2,Sony Computer Entertainment,Polyphony Digital,8.7,NULL,11.76,NULL,NULL,NULL,NULL,NULL,2005
+71,Animal Crossing: Wild World,Simulation,E,DS,Nintendo,Nintendo EAD,8.5,NULL,11.75,NULL,NULL,NULL,NULL,NULL,2005
+72,The Legend of Zelda: Breath of the Wild,Action-Adventure,E10,NS,Nintendo,Nintendo EPD,9.9,10,11.68,NULL,NULL,NULL,NULL,NULL,2017
+73,Super Mario Land 2: 6 Golden Coins,Platform,E,GB,Nintendo,Nintendo R&D1,9,NULL,11.18,NULL,NULL,NULL,NULL,NULL,1992
+74,Grand Theft Auto IV,Action,M,X360,Rockstar Games,Rockstar North,10,NULL,NULL,11.09,6.8,3.11,0.14,1.04,2008
+75,Super Mario 64 DS,Platform,E,DS,Nintendo,Nintendo EAD,8.6,NULL,11.06,NULL,NULL,NULL,NULL,NULL,2004
+76,Terraria,Platform,T,PC,Unknown,Re-Logic,8.8,NULL,11,NULL,NULL,NULL,NULL,NULL,2011
+77,FIFA 17,Sports,E,PS4,Electronic Arts,EA Canada,8.9,NULL,NULL,10.94,1.26,7.95,0.12,1.61,2016
+78,Gran Turismo,Racing,E,PS,Sony Computer Entertainment,Polyphony Digital,9.5,NULL,10.85,NULL,NULL,NULL,NULL,NULL,1998
+79,Call of Duty: Modern Warfare 2,Shooter,M,PS3,Activision,Infinity Ward,9.5,NULL,NULL,10.61,4.99,3.66,0.38,1.59,2009
+80,Grand Theft Auto IV,Action,M,PS3,Rockstar Games,Rockstar North,10,9,NULL,10.57,4.79,3.73,0.44,1.62,2008
+81,Super Mario All-Stars,Platform,E,SNES,Nintendo,Nintendo EAD,NULL,9.5,10.55,NULL,NULL,NULL,NULL,NULL,1993
+82,Call of Duty: Ghosts,Shooter,M,X360,Activision,Infinity Ward,6.9,NULL,NULL,10.41,6.76,2.64,0.04,0.98,2013
+83,Just Dance 3,Misc,E10,Wii,Ubisoft,Ubisoft Paris,7.5,NULL,NULL,10.14,5.95,3.13,NULL,1.06,2011
+84,Call of Duty: Ghosts,Shooter,M,PS3,Activision,Infinity Ward,7.5,NULL,NULL,10.13,4.11,4.01,0.39,1.62,2013
+85,Horizon: Zero Dawn,Action,T,PS4,Sony Interactive Entertainment,Guerrilla Games,9.1,8,10,NULL,NULL,NULL,NULL,NULL,2017
+86,"Pokemon: Let's Go, Pikachu/Eevee",Role-Playing,E,NS,Nintendo,Game Freak,NULL,NULL,10,NULL,NULL,NULL,NULL,NULL,2018
+87,RollerCoaster Tycoon 3,Strategy,E,PC,Atari,Frontier Developments,8.3,NULL,10,NULL,NULL,NULL,NULL,NULL,2004
+88,Halo: Reach,Shooter,M,X360,Microsoft Game Studios,Bungie,9.3,NULL,NULL,9.97,7.08,2.01,0.08,0.8,2010
+89,Portal,Shooter,T,PC,Valve Corporation,Valve Software,9,NULL,9.97,NULL,NULL,NULL,NULL,NULL,2008
+90,Halo 4,Shooter,M,X360,Microsoft Studios,343 Industries,NULL,NULL,NULL,9.96,6.72,2.36,0.04,0.83,2012
+91,Final Fantasy VII,Role-Playing,T,PS,Sony Computer Entertainment,SquareSoft,9.6,9.5,9.9,NULL,NULL,NULL,NULL,NULL,1997
+92,Mario Kart 64,Racing,E,N64,Nintendo,Nintendo EAD,8.5,NULL,9.87,NULL,NULL,NULL,NULL,NULL,1997
+93,StarCraft,Strategy,T,PC,Blizzard Entertainment,Blizzard Entertainment,8.7,NULL,9.5,NULL,NULL,NULL,NULL,NULL,1998
+94,Super Smash Bros. for 3DS,Fighting,E10,3DS,Nintendo,Bandai Namco Games,8.4,NULL,9.45,NULL,NULL,NULL,NULL,NULL,2014
+95,Call of Duty 4: Modern Warfare,Shooter,M,X360,Activision,Infinity Ward,9.6,9,NULL,9.41,5.98,2.39,0.13,0.91,2007
+96,Gran Turismo 2,Racing,E,PS,Sony Computer Entertainment,Polyphony Digital,9.2,NULL,9.37,NULL,NULL,NULL,NULL,NULL,1999
+97,Wii Party,Misc,E,Wii,Nintendo,"Nd Cube Co., Ltd.",7,NULL,9.32,NULL,NULL,NULL,NULL,NULL,2010
+98,Call of Duty: Black Ops IIII,Shooter,M,PS4,Activision,Treyarch,NULL,NULL,NULL,9.32,4.05,3.28,0.5,1.49,2018
+99,Mario Party DS,Misc,E,DS,Nintendo,Hudson Soft,7.1,NULL,9.31,NULL,NULL,NULL,NULL,NULL,2007
+100,Donkey Kong Country,Platform,E,SNES,Nintendo,Rare Ltd.,9,NULL,9.3,NULL,NULL,NULL,NULL,NULL,1994
