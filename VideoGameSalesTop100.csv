@@ -1,4 +1,5 @@
-﻿1,Wii Sports,Sports,E,Wii,Nintendo,Nintendo EAD,7.7,NULL,82.86,NULL,NULL,NULL,NULL,NULL,2006
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+1,Wii Sports,Sports,E,Wii,Nintendo,Nintendo EAD,7.7,NULL,82.86,NULL,NULL,NULL,NULL,NULL,2006
 2,Super Mario Bros.,Platform,NULL,NES,Nintendo,Nintendo EAD,10,NULL,40.24,NULL,NULL,NULL,NULL,NULL,1985
 3,Mario Kart Wii,Racing,E,Wii,Nintendo,Nintendo EAD,8.2,9.1,37.14,NULL,NULL,NULL,NULL,NULL,2008
 4,PlayerUnknown's Battlegrounds,Shooter,NULL,PC,PUBG Corporation,PUBG Corporation,NULL,NULL,36.6,NULL,NULL,NULL,NULL,NULL,2017
