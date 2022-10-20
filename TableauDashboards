@@ -2,4 +2,33 @@ Here is a Link to my tableau prfile
 
 https://public.tableau.com/app/profile/moseis
 
-Below are short descriptions of each dashboard where I will discuss what is being shown and why is it being shown
+Below are short descriptions of each dashboard followed by a story aobut each dataset
+
+Videogame Analysis:
+Given Critic Scores and sales naturally leads to exploring their coorelation. I show some of the basic trends of sales and scores to give ackground context of
+the difficulty of the relationship. Most of the analysis comes in the dual graph with sales and rank on it. This is the main meat of the visualization showing
+a fairly weak correlation between critic score and total sales. Finally I displaed the distribution of critic scored from all years to show how critic score follows
+a fairly normal distribution as shown by the approximation below with skew factors a=3 and r = 9.2
+
+
+The Video game insutry has been around for about 3 decades and a question asked thourghout all that time is: How do we sell more games?
+A common answer given is "Make good games", but do good games actually sell better?
+The first graph of sales show an overall increase in game sales from 1990 to 2008 and a drop off of sales afterwards. This is because the games made after 
+2008 have not had as much time to sell those games and we would expect the graph to continue increasing as time progressed.
+In contrast  is the Average critic score graph. It clearly shows that games get scored about the same year after year. Granted this
+can be from the expectations increasing over those years as well, so Critic Score is more like how games compared to games of the previous year.
+In the dual graph we can start to see a correlation between critic score and total sales. With and R-Squared score of .105 we can start to think there is a very weak
+correlation between sales and critic score. This graph also only has the top 5000 games in terms of sales, when all games are accounted for the R-Squared drops to nearly 0.
+So we can say there are sections of the data that beahve differently (games outside of the top 5000 are almost completly random, 500-5000 a small correllation but still
+mostly random, and 1-500 there is a much stronger coeefecient of realtion, despite the varience increased due to the small data set)
+Finally there are ther graphs of the distribution of all critic scores. This is expanded upon more in the "Meta Critic Ratings" Dashboard
+
+
+
+Geological CO2 and Methane Dashboard:
+Given total CO2 and Methane per country as well as per capita. There are two bar graphs showing the top 25 countries by total CO2 or Methane. I also ploted their 
+CO2 and Methane per capita to show they did not follow the same trend. Moving to then Maps I Colored the country according to their total output and placed a marker
+in each telling the emmissions per capita. I made the per capita change by size and color to better contrast the total respsective emmisions. I implemented this to show
+that neither Total emmisions for emmisions per capita may be the best desriptor of the data. Implying a more sophisticated form of anlysis should be conducted.
+
+tbc....
